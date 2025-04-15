@@ -8,7 +8,6 @@ Pasos para ejecutar proyecto:
 4. Abrir en el proeycto en el puerto indicado
 5. actualizar
 
-
 ## Producción
 
 1. Ejecutar "npm run build"
